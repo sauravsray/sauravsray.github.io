@@ -1,5 +1,5 @@
 This is my Personal Website. Currently, I am a Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India 
-<img src="web_pic_ss.png" width="120" height="230" />
+<img src="prof_pic.jpg" width="120" height="230" />
 
 
 # About Me
