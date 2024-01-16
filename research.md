@@ -15,4 +15,5 @@ Research
 
 
 # Conference Publications 
-1. Arun, K. R.; Das Gupta, A. J.; Samantaray, S.; "An implicit–explicit scheme accurate at low Mach numbers for the wave equation system.", Theory, Numerics and Applications of Hyperbolic Problems I: Aachen, Germany, August 2016, 2018, 97-109, Springer International Publishing. [Journal Link](https://link.springer.com/chapter/10.1007/978-3-319-91545-6_8)
+1. Arun, K. R.; Samantaray, S.; "An asymptotic preserving time integrator for low Mach number limits of the Euler equations with gravity.", Hyperbolic problems: theory, numerics, applications, 279–286. AIMS Ser. Appl. Math., 10. [Journal Link](https://data.aimsciences.org/aimsmath-upload/cms/news/info/upload/6964fa9d-6e63-46af-8a2a-4fcd5cb63de6.pdf)
+2. Arun, K. R.; Das Gupta, A. J.; Samantaray, S.; "An implicit–explicit scheme accurate at low Mach numbers for the wave equation system.", Theory, Numerics and Applications of Hyperbolic Problems I: Aachen, Germany, August 2016, 2018, 97-109, Springer International Publishing. [Journal Link](https://link.springer.com/chapter/10.1007/978-3-319-91545-6_8)
