@@ -3,7 +3,7 @@ Research
 # Research Interests
 * Numerical Schemes for Hyperbolic PDEs
 * Finite Volume Schemes
-* Implicit Explicit (IMEX) Runge-Kutta Schemes (RK)
+* Implicit Explicit(IMEX) Runge-Kutta(RK) Schemes 
 
 # Journal Publications / Preprints
 1. Arun, K. R.; Crouseilles, N.; Samantaray, S.; "High order asymptotic preserving and classical semi-implicit RK schemes for the euler-poisson system in the quasineutral limit.", arXiv preprint arXiv:2209.09477, 2022. [Arxiv Link](https://arxiv.org/pdf/2209.09477.pdf)
