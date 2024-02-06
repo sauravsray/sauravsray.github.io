@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", url: "sauravsray.github.io", icon: home}
   - {title: "Research", file: "research.md"} #, icon: }
   - {title: "Teaching", file: "teaching.md"} #, icon: }
-  - {title: "Sports", file: "sports.md"} #, icon: }
+  - {title: "Hobbies", file: "hobby.md"} #, icon: }
   - {title: "Blog", file: "Blog.md"} # , icon: }
   
 
