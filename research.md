@@ -6,7 +6,7 @@ Research
 * Implicit Explicit(IMEX) Runge-Kutta(RK) Schemes 
 
 # Journal Publications / Preprints
-1. Arun, K. R.; Crouseilles, N.; Samantaray, S.; "High order asymptotic preserving and classical semi-implicit RK schemes for the euler-poisson system in the quasineutral limit.", arXiv preprint arXiv:2209.09477, 2022. [Arxiv Link](https://arxiv.org/pdf/2209.09477.pdf)
+1. Arun, K. R.; Crouseilles, N.; Samantaray, S.; "High order asymptotic preserving and classical semi-implicit RK schemes for the euler-poisson system in the quasineutral limit.",  J. Sci. Comput. (2024). [Arxiv Link](https://arxiv.org/pdf/2209.09477.pdf), [Journal Link](https://link.springer.com/epdf/10.1007/s10915-024-02577-3?sharing_token=CWDxX6K3DJk_gOa51CO4k_e4RwlQNchNByi7wbcMAY4koSq16q-DGrVp_GMltGpLu84nTOmQvnWffqUlmxbqzVScIsItVf_wZe0dWceFU-DULKAv-ajIvglgiIsRzpCk5Ks_LHw4i6s_d5_mdsvwUEUDmkgJktyag2Q6cGDjpNs%3D)
 2. Balsara, D. S.; Samantaray, S.; Subramanian, S.; "Efficient WENO-based prolongation strategies for divergence-preserving vector fields.", Commun. Appl. Math. Comput.5(2023), no.1, 428–484. [Journal Link](https://link.springer.com/article/10.1007/s42967-021-00182-x)
 3. Arun, K. R.; Krishnan, M.; Samantaray, S.; "A unified asymptotic preserving and well-balanced scheme for the Euler system with multiscale relaxation.", Computers & Fluids 233(2022), Paper No. 105248, 13 pp. [Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0045793021003510?via%3Dihub)
 4. Balsara, D. S.; Samantaray, S.; Niknam, K.; Simpson, J. J.; Montecinos, G.; "An Optimized CPML Formulation for High Order FVTD Schemes for CED.", IEEE Journal on Multiscale and Multiphysics Computational Techniques, Vol. 6, Pages 183-200. [Journal Link](https://par.nsf.gov/servlets/purl/10355211)
