@@ -28,7 +28,6 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://sauravsray.github.io"}
   
   #- {title: Subscribe, icon: rss, url: "} # cange it to instagram open
-<a href="tel:5555555555">555-555-5555</a>
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
