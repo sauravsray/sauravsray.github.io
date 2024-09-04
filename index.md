@@ -14,4 +14,5 @@ This is my Personal Website. Currently, I am a Visting Faculty at the Department
 * Bsc in Mathematics and Computing from Institute of Mathematics and Application, Odisha, India. 
 
 ## Contact
-Call [Office](tel:04422574610)
+* Room No. - 642, NAC1, IIT Madras
+* Office Ph no. - 044 22574610 (8:00 am to 3:00 pm) (Monday, Tuesday and Thursday)
