@@ -13,3 +13,5 @@ This is my Personal Website. Currently, I am a Visting Faculty at the Department
 * MS in Mathematics from School of Mathematics, IISER-Thiruvananthapuram, Kerela, India.
 * Bsc in Mathematics and Computing from Institute of Mathematics and Application, Odisha, India. 
 
+## Contact
+Call [Office](tel:04422574610)
