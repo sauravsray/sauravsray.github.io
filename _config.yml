@@ -26,6 +26,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sauravsray@smail.iitm.ac.in"}
   - {title: Github, icon: github, url: "https://sauravsray.github.io"}
+  - {title: Contact, icon: phone, 044 22574610}
+  
   #- {title: Subscribe, icon: rss, url: "} # cange it to instagram open
 
 comments:
