@@ -12,3 +12,5 @@
 11. Static member data [File](ex_Codes/statdata.cpp)
 12. Stack Array [File](ex_Codes/stakaray.cpp)
 13. Uniray Operator Overloading [File](ex_Codes/countpp1.cpp), [File](ex_Codes/countpp3.cpp), [File](ex_Codes/countpp3.cpp)
+14. Binary plus Operator Overloading [File](ex_Codes/englplus.cpp), [File](ex_Codes/engless.cpp)
+15. Array Indexing Operator Overloading [File](ex_Codes/arrover1.cpp), [File](ex_Codes/arrover2.cpp)
