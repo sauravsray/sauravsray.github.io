@@ -17,7 +17,6 @@ class card
     private:
         int number;     //2 to 10, jack, queen, king, ace
         Suit suit;      //clubs, diamonds, hearts, spades
-
     public:
         card () {}      //constructor (no args)
 
