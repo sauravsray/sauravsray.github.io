@@ -15,3 +15,6 @@
 14. Uniray Operator Overloading [File](ex_Codes/countpp1.cpp), [File](ex_Codes/countpp3.cpp), [File](ex_Codes/countpp3.cpp), [File](ex_Codes/postfix.cpp)
 15. Binary plus Operator Overloading [File](ex_Codes/englplus.cpp), [File](ex_Codes/engless.cpp)
 16. Array Indexing Operator Overloading [File](ex_Codes/arrover1.cpp), [File](ex_Codes/arrover2.cpp)
+
+# Midsem Codes
+1. Q3. [File](ex_Codes/midsem_codes/arr_del.cpp)
