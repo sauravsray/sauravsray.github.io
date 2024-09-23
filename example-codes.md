@@ -17,4 +17,4 @@
 16. Array Indexing Operator Overloading [File](ex_Codes/arrover1.cpp), [File](ex_Codes/arrover2.cpp)
 
 # Midsem Codes
-1. Q3. [File](ex_Codes/midsem_codes/arr_del.cpp)
+1. Q3. [File](ex_Codes/midsem_codes/dec_dig.cpp)
