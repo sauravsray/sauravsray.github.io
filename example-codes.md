@@ -18,3 +18,4 @@
 
 # Midsem Codes
 1. Q3. [File](ex_Codes/midsem_codes/dec_dig.cpp)
+2. Q5. [gauss.cpp](ex_Codes/midsem_codes/gauss.cpp), [gauss.hpp](ex_Codes/midsem_codes/gauss.hpp), [main.cpp](ex_Codes/midsem_codes/main.cpp), [makefile](ex_Codes/midsem_codes/makefile)
