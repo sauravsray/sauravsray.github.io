@@ -16,7 +16,7 @@
 15. Binary plus Operator Overloading [File](ex_Codes/englplus.cpp), [File](ex_Codes/engless.cpp)
 16. Array Indexing Operator Overloading [File](ex_Codes/arrover1.cpp), [File](ex_Codes/arrover2.cpp)
 17. Conversions [Englconv](ex_Codes/englconv.cpp), [Times1](ex_Codes/times1.cpp), [Times2](ex_Codes/times2.cpp)
-18. Inheritance [Counter](ex_Codes/counten.cpp)
+18. Inheritance [Counter](ex_Codes/counten.cpp), [Stakarray](ex_Codes/staken.cpp), [Counter](ex_Codes/counten2.cpp)
 
 # Midsem Codes
 1. Q2. [File](ex_Codes/midsem_codes/dec_baseb.cpp)
