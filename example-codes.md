@@ -16,10 +16,11 @@
 15. Binary plus Operator Overloading [File](ex_Codes/englplus.cpp), [File](ex_Codes/engless.cpp)
 16. Array Indexing Operator Overloading [File](ex_Codes/arrover1.cpp), [File](ex_Codes/arrover2.cpp)
 17. Conversions [Englconv](ex_Codes/englconv.cpp), [Times1](ex_Codes/times1.cpp), [Times2](ex_Codes/times2.cpp)
-18. Inheritance [Counter](ex_Codes/counten.cpp), [Stakarray](ex_Codes/staken.cpp), [Counter](ex_Codes/counten2.cpp)
+18. Inheritance [counten.cpp](ex_Codes/counten.cpp), [staken.cpp](ex_Codes/staken.cpp), [counten2.cpp](ex_Codes/counten2.cpp), [englen.cpp](ex_Codes/englen.cpp)
+19. Class Hierarchies 
 
 # Midsem Codes
 1. Q2. [File](ex_Codes/midsem_codes/dec_baseb.cpp)
 2. Q3. [File](ex_Codes/midsem_codes/dec_dig.cpp)
-3. Q5. [gauss.cpp](ex_Codes/midsem_codes/gauss.cpp), [gauss.hpp](ex_Codes/midsem_codes/gauss.hpp), [main.cpp](ex_Codes/midsem_codes/main.cpp), [makefile](ex_Codes/midsem_codes/Makefile)
+3. Q5. [gauss.cpp](ex_Codes/midsem_codes/gauss.cpp), [gauss.hpp](ex_Codes/midsem_codes/gauss.hpp), [main.cpp](ex_Codes/midsem_codes/main.cpp), [makefile](ex_Codes/midsem_codes/Makefile) 
    
