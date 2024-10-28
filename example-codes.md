@@ -18,7 +18,7 @@
 17. Array Indexing Operator Overloading [arrover1.cpp](ex_Codes/arrover1.cpp), [arrover2.cpp](ex_Codes/arrover2.cpp), [arrover3.cpp](ex_Codes/arrover3.cpp)
 18. Conversions [Englconv](ex_Codes/englconv.cpp), [Times1](ex_Codes/times1.cpp), [Times2](ex_Codes/times2.cpp)
 19. Inheritance [counten.cpp](ex_Codes/counten.cpp), [staken.cpp](ex_Codes/staken.cpp), [counten2.cpp](ex_Codes/counten2.cpp), [englen.cpp](ex_Codes/englen.cpp)
-20. Class Hierarchies 
+20. Class Hierarchies [employ.cpp](ex_Codes/employ.cpp), [pubpriv.cpp](ex_Codes/pubpriv.cpp), [empmult.cpp](ex_Codes/empmult.cpp), [englmult.cpp](ex_Codes/englmult.cpp), [ambigu.cpp](ex_Codes/ambigu.cpp)
 
 # Midsem Codes
 1. Q2. [dec_baseb.cpp](ex_Codes/midsem_codes/dec_baseb.cpp)
