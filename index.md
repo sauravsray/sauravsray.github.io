@@ -1,10 +1,11 @@
-This is my Personal Website. Currently, I am a Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India 
+This is my Personal Website. Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha at the Johannes Gutenberg University of Mainz, Mainz, Germany. 
 <img src="prof_pic.jpg" width="120" height="190" />
 
 
 # About Me
 
 ## Past Professional Experience
+* Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India.
 * Postdoctoral Reasearcher at TIFR-Center For Applicable Mathematics, Bangalore, India.
 * Postdoctoral Reasearcher at Department of Physics, University of NotreDame, Indiana, USA.
 
@@ -14,5 +15,4 @@ This is my Personal Website. Currently, I am a Visting Faculty at the Department
 * Bsc in Mathematics and Computing from Institute of Mathematics and Application, Odisha, India. 
 
 ## Contact
-* Room No. - 642, NAC1, IIT Madras
-* Office Ph no. - 044 22574610 (8:00 am to 3:00 pm) (Monday, Tuesday and Thursday)
+* Room No. - 527, Staudingerweg 9
