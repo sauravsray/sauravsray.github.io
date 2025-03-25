@@ -6,6 +6,7 @@ Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha 
 
 
 # About Me
+I can think, I can wait, I can fast   -- Sidhartha
 
 ## Past Professional Experience
 * Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India.
