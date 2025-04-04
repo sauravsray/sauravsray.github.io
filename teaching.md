@@ -10,7 +10,7 @@
 
 ## Fall-2023 (July-Nov)
 * Object Oriented Programming (MA-5741), a Course for M-tech students at the Department of Mathematics, IIT Madras.
-* Mutivariable Calculus (MA-1101), a Course for B-tech students at IIT Madras.
+* Mutivariable Calculus (MA-1101), a Course for B-tech students at IIT Madras. (Lecture Slides Available on Moodle).
 
 
 ## Spring-2023 (Jan-May) 
