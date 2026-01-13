@@ -1,6 +1,6 @@
 This is my Personal Website. 
 
-Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha at the Johannes Gutenberg University of Mainz, Mainz, Germany. 
+Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha at the Johannes Gutenberg University Mainz, Mainz, Germany. 
 
 <img src="prof_pic.jpg" width="120" height="190" />
 
