@@ -6,7 +6,7 @@ Research
 * Implicit Explicit(IMEX) Runge-Kutta(RK) Schemes 
 
 # Journal Publications / Preprints
-1. Crouseilles, N.; Dimarco, G.; Samantaray, S.; "High order Asymptotic Preserving penalized numerical schemes for the Euler-Poisson system in the quasi-neutral limit.", (Accepted in M2AN). (2026). [Arxiv Link](https://arxiv.org/pdf/2409.04807)
+1. Crouseilles, N.; Dimarco, G.; Samantaray, S.; "High order Asymptotic Preserving penalized numerical schemes for the Euler-Poisson system in the quasi-neutral limit.", ESAIM: M2AN.(2026). [Arxiv Link](https://arxiv.org/pdf/2409.04807), [Journal Link](https://www.esaim-m2an.org/articles/m2an/pdf/forth/m2an240319.pdf)
 2.  Samantaray, S.; "Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations.", arXiv:2409.05854. (2024). [Arxiv Link](https://arxiv.org/pdf/2409.05854)
 3.   Arun, K. R.; Crouseilles, N.; Samantaray, S.; "High order asymptotic preserving and classical semi-implicit RK schemes for the euler-poisson system in the quasineutral limit.",  J. Sci. Comput. (2024). [Arxiv Link](https://arxiv.org/pdf/2209.09477.pdf), [Journal Link](https://link.springer.com/epdf/10.1007/s10915-024-02577-3?sharing_token=CWDxX6K3DJk_gOa51CO4k_e4RwlQNchNByi7wbcMAY4koSq16q-DGrVp_GMltGpLu84nTOmQvnWffqUlmxbqzVScIsItVf_wZe0dWceFU-DULKAv-ajIvglgiIsRzpCk5Ks_LHw4i6s_d5_mdsvwUEUDmkgJktyag2Q6cGDjpNs%3D)
 4. Balsara, D. S.; Samantaray, S.; Subramanian, S.; "Efficient WENO-based prolongation strategies for divergence-preserving vector fields.", Commun. Appl. Math. Comput.5(2023), no.1, 428–484. [Journal Link](https://link.springer.com/article/10.1007/s42967-021-00182-x)
