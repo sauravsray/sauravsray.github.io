@@ -6,7 +6,7 @@ Research
 * Implicit Explicit(IMEX) Runge-Kutta(RK) Schemes 
 
 # Journal Publications / Preprints
-1. Samantaray, S.; "Strongly Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations.", Applied Numerical Mathematic. (2026). [Journal Link](https://www.sciencedirect.com/science/article/pii/S0168927426001121) <span style="color:green">
+1. Samantaray, S.; "Strongly Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations.", Applied Numerical Mathematic. (2026). [Journal Link](https://www.sciencedirect.com/science/article/pii/S0168927426001121) <span style="color:red">
 open access
 </span>
 2.  Artiano, M.; Ranocha, H.; Samantaray, S.; "Asymptotic-Preserving and Well-Balanced Linearly Implicit IMEX Schemes for the Anelastic Limit of the Isentropic Euler Equations with Gravity.", arXiv:2604.11573. (2026). [Arxiv Link](https://arxiv.org/pdf/2604.11573)
