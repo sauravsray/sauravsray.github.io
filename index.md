@@ -1,6 +1,4 @@
-This is my Personal Website. 
-
-Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha at the Johannes Gutenberg University Mainz, Mainz, Germany. 
+I am an Assistant Professor in Department of Mathematics, IIT Madras, Chennai, India. 
 
 <img src="prof_pic.jpg" width="120" height="190" />
 
@@ -9,9 +7,10 @@ Currently, I am a Postdoctoral Researcher in the group of Prof. Hendrik Ranocha 
 I can think, I can wait, I can fast   -- Sidhartha
 
 ## Past Professional Experience
-* Visting Faculty at the Department of Mathematics, IIT Madras, Chennai, India.
-* Postdoctoral Reasearcher at TIFR-Center For Applicable Mathematics, Bangalore, India.
-* Postdoctoral Reasearcher at Department of Physics, University of NotreDame, Indiana, USA.
+* Postdoctoral Researcher in Johannes Gutenberg University Mainz, Mainz, Germany. 
+* Visting Faculty in Department of Mathematics, IIT Madras, Chennai, India.
+* Postdoctoral Reasearcher in TIFR-Center For Applicable Mathematics, Bangalore, India.
+* Postdoctoral Reasearcher in Department of Physics, University of NotreDame, Indiana, USA.
 
 ## Education
 * PhD in Mathematics from School of Mathematics, IISER-Thiruvananthapuram, Kerela, India.
@@ -19,4 +18,4 @@ I can think, I can wait, I can fast   -- Sidhartha
 * Bsc in Mathematics and Computing from Institute of Mathematics and Application, Odisha, India. 
 
 ## Contact
-* Room No. - 527, Staudingerweg 9
+* Room No. - KCB-623B, IIT Madras.
