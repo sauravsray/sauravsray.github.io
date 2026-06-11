@@ -2,9 +2,10 @@ I am an Assistant Professor in Department of Mathematics, IIT Madras, Chennai, I
 
 <img src="prof_pic.jpg" width="120" height="190" />
 
+I can think, I can wait, I can fast   -- Sidhartha
 
 # About Me
-I can think, I can wait, I can fast   -- Sidhartha
+I am interested in developing methods to approximately solve real world problems stated in terms of mathematical models. 
 
 ## Past Professional Experience
 * Postdoctoral Researcher in Johannes Gutenberg University Mainz, Mainz, Germany. 
