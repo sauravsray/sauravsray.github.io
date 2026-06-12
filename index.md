@@ -9,7 +9,7 @@ I am interested in developing methods to approximately solve real world problems
 
 ## Past Professional Experience
 * Postdoctoral Researcher in Johannes Gutenberg University Mainz, Mainz, Germany. 
-* Visting Faculty in Department of Mathematics, IIT Madras, Chennai, India.
+* Visiting Faculty in Department of Mathematics, IIT Madras, Chennai, India.
 * Postdoctoral Reasearcher in TIFR-Center For Applicable Mathematics, Bangalore, India.
 * Postdoctoral Reasearcher in Department of Physics, University of NotreDame, Indiana, USA.
 
