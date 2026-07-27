@@ -1,5 +1,8 @@
 ## Teaching
 
+## Fall-2026 (July-Nov)
+* Scientific Computing & Advanced Programming Lab (MA-5105), a  Course for M-Tech students at the Department of Mathematics, IIT Madras.[Course Website](MA-5105-Aug-26.md)
+
 ## Fall-2024 (July-Nov)
 * Object Oriented Programming (MA-5741), a Course for M-Tech students at the Department of Mathematics, IIT Madras.[Course Website](MA-5741-Aug-24.md)
 
