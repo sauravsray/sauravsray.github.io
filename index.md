@@ -19,4 +19,4 @@ I am interested in developing methods to approximately solve real world problems
 * Bsc in Mathematics and Computing from Institute of Mathematics and Application, Odisha, India. 
 
 ## Contact
-* Room No. - KCB-623B, IIT Madras.
+* Room No. - KCB-622A (inside 622), IIT Madras.
