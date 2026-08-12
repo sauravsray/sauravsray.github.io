@@ -1,11 +1,13 @@
-Research
+---
+title: Research
+---
 
-# Research Interests
+## Research Interests
 * Numerical Schemes for Hyperbolic PDEs
 * Finite Volume Schemes
 * Implicit Explicit(IMEX) Runge-Kutta(RK) Schemes 
 
-# Journal Publications / Preprints
+## Journal Publications / Preprints
 1. Samantaray, S.; "Strongly Asymptotic Preserving Linearly Implicit Additive IMEX-RK Finite Volume Schemes for Low Mach Number Isentropic Euler Equations.", Applied Numerical Mathematic. (2026). [Journal Link (open access)](https://www.sciencedirect.com/science/article/pii/S0168927426001121) 
 2.  Artiano, M.; Ranocha, H.; Samantaray, S.; "Asymptotic-Preserving and Well-Balanced Linearly Implicit IMEX Schemes for the Anelastic Limit of the Isentropic Euler Equations with Gravity.", arXiv:2604.11573. (2026). [Arxiv Link](https://arxiv.org/pdf/2604.11573)
 3. Crouseilles, N.; Dimarco, G.; Samantaray, S.; "High order Asymptotic Preserving penalized numerical schemes for the Euler-Poisson system in the quasi-neutral limit.", ESAIM: M2AN.(2026) Volume 60, Number 2, pages: 657 - 688, March-April 2026. , [Journal Link (open access)](https://www.esaim-m2an.org/articles/m2an/pdf/2026/02/m2an240319.pdf) 
@@ -17,6 +19,6 @@ Research
 9.  Arun, K. R.; Samantaray, S.; "Asymptotic preserving low Mach number accurate IMEX finite volume schemes for the isentropic Euler equations.", J. Sci. Comput.82(2020), no.2, Art. 35, 32 pp. [Arxiv Link](https://arxiv.org/pdf/1907.01711), [Journal Link](https://link.springer.com/article/10.1007/s10915-020-01138-8)
 
 
-# Conference Publications 
+## Conference Publications 
 1. Arun, K. R.; Samantaray, S.; "An asymptotic preserving time integrator for low Mach number limits of the Euler equations with gravity.", Hyperbolic problems: theory, numerics, applications, 279–286. AIMS Ser. Appl. Math., 10. [Arxiv Link](https://arxiv.org/pdf/1902.00221), [Journal Link](https://data.aimsciences.org/aimsmath-upload/cms/news/info/upload/6964fa9d-6e63-46af-8a2a-4fcd5cb63de6.pdf)
 2. Arun, K. R.; Das Gupta, A. J.; Samantaray, S.; "An implicit–explicit scheme accurate at low Mach numbers for the wave equation system.", Theory, Numerics and Applications of Hyperbolic Problems I: Aachen, Germany, August 2016, 2018, 97-109, Springer International Publishing. [Journal Link](https://link.springer.com/chapter/10.1007/978-3-319-91545-6_8)
